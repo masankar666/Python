@@ -1,6 +1,3 @@
-print ('hello, world!')
-
-
 #Add Two Number
 print ('Adding Two Number')
 print('Enter the First umber:')
